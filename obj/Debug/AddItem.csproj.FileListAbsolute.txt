@@ -1,0 +1,7 @@
+C:\Users\ДжабашевН.CORP\source\repos\AddItem\AddItem\obj\Debug\AddItem.csprojAssemblyReference.cache
+C:\Users\ДжабашевН.CORP\source\repos\AddItem\AddItem\obj\Debug\AddItem.csproj.CoreCompileInputs.cache
+C:\Users\ДжабашевН.CORP\source\repos\AddItem\AddItem\bin\Debug\AddItem.exe.config
+C:\Users\ДжабашевН.CORP\source\repos\AddItem\AddItem\bin\Debug\AddItem.exe
+C:\Users\ДжабашевН.CORP\source\repos\AddItem\AddItem\bin\Debug\AddItem.pdb
+C:\Users\ДжабашевН.CORP\source\repos\AddItem\AddItem\obj\Debug\AddItem.exe
+C:\Users\ДжабашевН.CORP\source\repos\AddItem\AddItem\obj\Debug\AddItem.pdb
